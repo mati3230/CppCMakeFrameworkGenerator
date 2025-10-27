@@ -1,0 +1,29 @@
+{
+    "name": "generator-cpp-cmake-framework",
+    "version": "1.0.0",
+    "description": "Yeoman generator for C++/CMake framework projects",
+    "keywords": [
+        "yeoman-generator",
+        "cpp",
+        "cmake",
+        "scaffold",
+        "template"
+    ],
+    "author": "Marcel Tiator",
+    "license": "MIT",
+    "files": [
+        "generators"
+    ],
+    "scripts": {
+        "test": "echo \"No tests yet\""
+    },
+    "dependencies": {
+        "yeoman-generator": "^5.7.0"
+    },
+    "devDependencies": {
+        "prettier": "^3.6.2"
+    },
+    "engines": {
+        "node": ">=14.0.0"
+    }
+}
